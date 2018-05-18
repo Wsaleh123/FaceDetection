@@ -45,7 +45,7 @@ while True:
 		break
 		#NOTE: THERE IS NO ACTUAL FILE, THIS IS JUST AN EXAMPLE OF HOW THIS PROGRAM MAY BE USED
 	else:
-		print("Your not Wesam!!!!") # otherwise the file may not be accessed 
+		print("You're not Wesam!!!!") # otherwise the file may not be accessed 
 		print("Your file is still locked. Goodbye!")
 		print(match)
 		break
